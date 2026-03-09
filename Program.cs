@@ -60,8 +60,9 @@ namespace PracticeSynergy
             }
 
             // Ссылка на репозиторий
-            Console.WriteLine("\nСсылка на репозиторий GitHub: https://github.com/yourusername/PracticeSynergy"); // Замените на свою ссылку
+            Console.WriteLine("\nСсылка на репозиторий GitHub: https://github.com/WowkaJones/PracticeSynergy/tree/main");
             Console.ReadKey();
         }
     }
+
 }
