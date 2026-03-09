@@ -23,6 +23,7 @@
 
 ## Пример работы программы
 <img width="486" height="155" alt="image" src="https://github.com/user-attachments/assets/a44dc87d-8297-4137-840e-f34553d79d84" />
+
 ## Автор
 Захаров Владимир Игорьевич
 Студент Университета "Синергия"
